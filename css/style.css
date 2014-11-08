@@ -301,33 +301,6 @@ font-family: "FontAwesome" !important;
   ul li a i{
     padding-left:5px;
   }
-/*
-[class^=".share-btn.sharer"]{
-  width: 250px !important;
-  height: 50px  !important;
-}
-[class^=".share-btn.sharer-"] .social.networks-5{
-  width: 460px !important;
-}
-.share-btn.sharer-0 label,.share-btn.sharer-1 label{
-  padding: 0 !important;
-  border: 1px solid #FFFFFF;
-  background-color:#0D99D6 !important;
-  color:#fff !important;
-  display: block;
-  width: 250px !important;
-  height: 50px !important;
-  line-height: 50px;
-}
-.share-btn-div .share-btn{
-  padding:10px 50px;
-  background-color:#497BE4 !important;
-  border-radius:6px;
-
-}
-.share-btn-div .share-btn:hover{
-  color:#fff;
-}*/
 .share-btn{
   margin:auto;  
 }
@@ -362,9 +335,6 @@ font-family: "FontAwesome" !important;
 @media(max-width: 40em){
   #bgfx {
     background-image: none;
-  }
-  .sub-sub-list{
-    margin-top:20px;
   }
   #heading{
     font-size:2.5em;
@@ -435,6 +405,7 @@ font-family: "FontAwesome" !important;
     line-height: 60px !important;
     border: 0;
     border-radius: 0 !important;
+    font-family:'Open Sans';
   }
   .share-btn.sharer-0 .social.networks-5,.share-btn.sharer-1 .social.networks-5{
     width: 300px !important;
